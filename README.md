@@ -4,3 +4,6 @@ This repo consists of few really handly php web shells ive found over internet
 
 <img width="1204" alt="image" src="https://github.com/Rajchowdhury420/Funky-php-web-shells/assets/30806882/35befdae-b89f-4d8e-8671-ef7487715d24">
 
+## Fileupload bypass labs
+
+![](https://upload.hscsec.cn/)
