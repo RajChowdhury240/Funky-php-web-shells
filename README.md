@@ -11,3 +11,6 @@ This repo consists of few really handly php web shells ive found over internet
 <img width="1204" alt="image" src="https://github.com/Rajchowdhury420/Funky-php-web-shells/assets/30806882/35befdae-b89f-4d8e-8671-ef7487715d24">
 
 
+#### Post Req Web Shell
+
+<img width="1154" alt="image" src="https://github.com/user-attachments/assets/3d54a3cf-7d3c-41b8-8cd8-c19835cf5974" />
