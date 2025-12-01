@@ -5,6 +5,8 @@ This repo consists of few really handly php web shells ive found over internet
 
 ![image](https://github.com/user-attachments/assets/0bbbd289-3aa9-4605-8b47-595fabc427a8)
 
+<img width="3572" height="2262" alt="image" src="https://github.com/user-attachments/assets/1286311d-0ecd-4e95-9e05-0ade8ad38b45" />
+
 
 <img width="1299" alt="image" src="https://github.com/Rajchowdhury420/Funky-php-web-shells/assets/30806882/2355a638-807f-4e0d-860d-5a4f60ec9b3e">
 
